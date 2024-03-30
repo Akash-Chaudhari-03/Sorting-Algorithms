@@ -25,6 +25,7 @@ public class BubbleSort {
     }
 
     public static void main(String[] args) {
+        System.out.println("Bubblesort");
         int [] arrA = {22, 43, 2, 34, 99, 23, 11, 100};
         sort(arrA);
     }
